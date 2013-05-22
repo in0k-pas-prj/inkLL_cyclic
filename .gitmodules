@@ -1,0 +1,12 @@
+[submodule "src"]
+	path = src
+	url = X:/SINGLE/inkCLL/inkCLL_src
+[submodule "tst"]
+	path = tst
+	url = X:/SINGLE/inkCLL/inkCLL_tst
+[submodule "srcExt/inkSLL"]
+	path = srcExt/inkSLL
+	url = X:/SINGLE/inkSLL/inkSLL_src
+[submodule "tstExt/inkSLL"]
+	path = tstExt/inkSLL
+	url = X:/SINGLE/inkSLL/inkSLL_tst
