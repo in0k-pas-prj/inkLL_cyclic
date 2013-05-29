@@ -1,3 +1,15 @@
 [submodule "tstExt/inkSLL"]
 	path = tstExt/inkSLL
 	url = X:/SINGLE/inkSLL/inkSLL_tst
+[submodule "src"]
+	path = src
+	url = X:/SINGLE/inkLL_cyclic/inkLL_cyclic__src
+[submodule "tst"]
+	path = tst
+	url = X:/SINGLE/inkLL_cyclic/inkLL_cyclic__tst
+[submodule "srcExt/inkLL_core"]
+	path = srcExt/inkLL_core
+	url = X:/SINGLE/inkLL_core/inkLL_core__src
+[submodule "tstExt/inkLL_core"]
+	path = tstExt/inkLL_core
+	url = X:/SINGLE/inkLL_core/inkLL_core__tst
