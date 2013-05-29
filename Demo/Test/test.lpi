@@ -41,22 +41,27 @@
         <PackageName Value="LCL"/>
       </Item3>
     </RequiredPackages>
-    <Units Count="3">
+    <Units Count="4">
       <Unit0>
         <Filename Value="test.lpr"/>
         <IsPartOfProject Value="True"/>
         <UnitName Value="test"/>
       </Unit0>
       <Unit1>
-        <Filename Value="..\..\src\inkLLcyclic.pas"/>
+        <Filename Value="..\..\src\inkLL_cyclic.pas"/>
         <IsPartOfProject Value="True"/>
-        <UnitName Value="inkLLcyclic"/>
+        <UnitName Value="inkLL_cyclic"/>
       </Unit1>
       <Unit2>
         <Filename Value="..\..\tst\ALL_Tests_inkLLcyclic.pas"/>
         <IsPartOfProject Value="True"/>
         <UnitName Value="ALL_Tests_inkLLcyclic"/>
       </Unit2>
+      <Unit3>
+        <Filename Value="..\..\srcExt\inkLL_core\inkLL_node.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="inkLL_node"/>
+      </Unit3>
     </Units>
   </ProjectOptions>
   <CompilerOptions>
@@ -68,7 +73,7 @@
     <SearchPaths>
       <IncludeFiles Value="$(ProjOutDir)"/>
       <Libraries Value="C:\DeVeLoP\CodeBlocks\MinGW\lib\"/>
-      <OtherUnitFiles Value="..\..\src;..\..\tst;..\..\tstExt\inkSLL;..\..\srcExt\inkLL_node;..\..\tstExt\inkLL_node"/>
+      <OtherUnitFiles Value="..\..\srcExt\inkLL_core;..\..\src;..\..\tstExt\inkLL_core;..\..\tst"/>
       <UnitOutputDirectory Value="lib\$(TargetCPU)-$(TargetOS)"/>
     </SearchPaths>
     <CodeGeneration>
