@@ -7,7 +7,7 @@ uses
   cthreads,
   {$ENDIF}{$ENDIF}
   Interfaces, // this includes the LCL widgetset
-  Forms, inkLLcyclic, ALL_Tests_inkLLcyclic,
+  Forms, inkLL_cyclic, ALL_Tests_inkLLcyclic, inkLL_node,
 
   GuiTestRunner, fpcunittestrunner{, ALL_Tests_inkSLL};
 
