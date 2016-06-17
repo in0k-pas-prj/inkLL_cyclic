@@ -6,7 +6,7 @@
 	url = https://github.com/in0k-pas-src/inkLL_cyclic_tst.git
 [submodule "srcExt/inkLL_CORE"]
 	path = srcExt/inkLL_CORE
-	url = git@github.com:in0k-pas-src/inkLL_CORE_src.git
+	url = https://github.com/in0k-pas-src/inkLL_CORE_src.git
 [submodule "tstExt/inkLL_CORE"]
 	path = tstExt/inkLL_CORE
-	url = git@github.com:in0k-pas-src/inkLL_CORE_tst.git
+	url = https://github.com/in0k-pas-src/inkLL_CORE_tst.git
