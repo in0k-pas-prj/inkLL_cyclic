@@ -3,13 +3,10 @@
 	url = X:/SINGLE/inkSLL/inkSLL_tst
 [submodule "src"]
 	path = src
-	url = X:/SINGLE/inkLL_cyclic/inkLL_cyclic__src
+	url = git@github.com:in0k-pas-src/inkLL_cyclic_src.git
 [submodule "tst"]
 	path = tst
-	url = X:/SINGLE/inkLL_cyclic/inkLL_cyclic__tst
-[submodule "srcExt/inkLL_core"]
-	path = srcExt/inkLL_core
-	url = X:/SINGLE/inkLL_core/inkLL_core__src
-[submodule "tstExt/inkLL_core"]
-	path = tstExt/inkLL_core
-	url = X:/SINGLE/inkLL_core/inkLL_core__tst
+	url = git@github.com:in0k-pas-src/inkLL_cyclic_tst.git
+[submodule "srcExt/inkLL_CORE"]
+	path = srcExt/inkLL_CORE
+	url = git@github.com:in0k-pas-src/inkLL_CORE_src.git
