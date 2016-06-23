@@ -3,3 +3,5 @@
 *.exe
 [Bb]ackup/
 [Ll]ib/
+
+*fpcunit.ini
